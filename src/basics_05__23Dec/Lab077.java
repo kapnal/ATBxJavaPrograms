@@ -1,4 +1,4 @@
-package src.basics_23Dec;
+package src.basics_05__23Dec;
 
 public class Lab077 {
     public static void main(String[] args) {
