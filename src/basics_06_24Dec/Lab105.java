@@ -1,4 +1,4 @@
-package src.basics06_24Dec;
+package src.basics_06_24Dec;
 
 import java.util.Scanner;
 
