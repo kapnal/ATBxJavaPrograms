@@ -1,17 +1,14 @@
-package src.basics_05__23Dec;
+package src.basics_05_23Dec;
 
-public class Lab076 {
+public class Lab072 {
     public static void main(String[] args) {
         // for( A ;B ; C)
         // A -> Initialization -> JVM What variable, where you are starting point
         // B - Condition -> When you want this to stop.
         // C ->  Increment / Decrement
 
-        for (int i=0;i>1;i++){
+        for (int i=1;i<=10;i++) {
             System.out.println("Kapil");
         }
-        System.out.println("End of program");
-
-
     }
 }
