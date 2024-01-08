@@ -1,4 +1,4 @@
-package src.oops_08_06Jan;
+package src.oops_08_06Jan.basics;
 
 import java.util.Scanner;
 
