@@ -1,4 +1,4 @@
-package src.collectionframeworkpart1_12_20Jan;
+package src.oops_12_20Jan;
 
 public class Lab173 {
     public static void main(String[] args) throws Exception{

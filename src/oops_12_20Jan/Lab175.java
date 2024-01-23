@@ -1,4 +1,4 @@
-package src.collectionframeworkpart1_12_20Jan;
+package src.oops_12_20Jan;
 
 import java.io.File;
 import java.io.FileReader;
