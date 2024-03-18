@@ -9,5 +9,6 @@ public class Lab030 {
         System.out.println(a+b+s1+s2);
         System.out.println(s1+s2+a+b);
         System.out.println(s1+s2+(a+b));
+
     }
 }
