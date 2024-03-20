@@ -1,6 +1,6 @@
 package src.practice;
 
-public class Basics {
+public class Basics01 {
 
     public static void main(String[] args) {
 
