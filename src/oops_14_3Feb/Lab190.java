@@ -9,7 +9,7 @@ public class Lab190 {
         Set fruits = new HashSet();
         fruits.add("apple");
         fruits.add("orange");
-        fruits.add("Orange");
+        fruits.add("orange");
         fruits.add("apple");
         fruits.add("WaterMelon");
 

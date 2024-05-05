@@ -9,7 +9,7 @@ public class Lab185 {
         Vector<String> v2 = new Vector();
         v2.add("pramod");
         v2.add("pr");
-        v2.add("adsda"); // Array - can store simirlar only
+        v2.add("adsda"); // Array - can store similar only
 
         Enumeration e  = v2.elements();   //Enumerartion can only use with vector
         while(e.hasMoreElements()){

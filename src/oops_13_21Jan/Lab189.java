@@ -28,10 +28,12 @@ public class Lab189 {
         // Comparable -> 1 id or name not both are not allowed -
 
         Collections.sort(students);
+        Collections.sort(students, new SortByNameDesc());
+        Collections.sort(students, new SortByIdAsc());
 
         // Comparator - id, name
         // Create a class and implete comparator and tell the Interge
 
-        System.out.println(students);
+       System.out.println(students);
     }
 }
