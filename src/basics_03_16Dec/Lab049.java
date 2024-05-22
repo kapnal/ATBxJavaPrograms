@@ -10,10 +10,10 @@ public class Lab049 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         if (a < b){
-            System.out.println("Min" +a);
+            System.out.println("Min " +a);
         }
         else{
-            System.out.println("Min" +b);
+            System.out.println("Min " +b);
         }
 
     }

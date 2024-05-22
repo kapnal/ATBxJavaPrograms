@@ -10,10 +10,10 @@ public class Lab048 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         if (a > b){
-            System.out.println("Max" +a);
+            System.out.println("Max " +a);
         }
         else{
-            System.out.println("Max" +b);
+            System.out.println("Max " +b);
         }
 
     }

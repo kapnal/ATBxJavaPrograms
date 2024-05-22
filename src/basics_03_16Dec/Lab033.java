@@ -10,5 +10,6 @@ public class Lab033 {
         System.out.println(name.equals(name1));
         System.out.println(name ==name2); //name is in -SCP and name2 is in OA
         System.out.println(name.equals(name2));
+
     }
 }
