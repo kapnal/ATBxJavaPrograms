@@ -24,7 +24,7 @@ public class Lab050 {
         } else if (number >10){
             System.out.println("number is > 10");
         }else{
-            System.out.println("number is <20");
+            System.out.println("number is < 10");
         }
 
 

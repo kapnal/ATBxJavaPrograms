@@ -25,7 +25,7 @@ public class Lab055 {
         int side3 = sc.nextInt();
         if((side1 ==side2) && (side2 ==side3) && (side1 ==side3)){
             System.out.println("EQ");
-        } else if((side1 == side2) || (side1 == side3) || (side2 == side3)){
+        } else if((side1 == side2) || (side2 == side3) || (side1 == side3)){
             System.out.println("ISO");
         }else{
             System.out.println("SCA");
