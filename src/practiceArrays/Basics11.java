@@ -4,7 +4,7 @@ public class Basics11 {
 
     public static void main(String[] args) {
 
-        int a[] = {1,2,3};
+//        int a[] = {1,2,3};
 
         int[] [] arr = new int[3][3];
 
@@ -18,7 +18,7 @@ public class Basics11 {
         arr[2][1] = 50;
         arr[2][2] = 14;
 
-        for(int i =0; i < a.length; i++){
+        for(int i =0; i < arr.length; i++){
             for(int j =0; j < arr[i].length;j++){
                 System.out.print(arr[i][j]+ "\t");
             }
