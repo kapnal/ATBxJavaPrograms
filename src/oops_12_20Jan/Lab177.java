@@ -12,5 +12,7 @@ public class Lab177 {
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
+
+        System.out.println("Enf od Program");
     }
 }

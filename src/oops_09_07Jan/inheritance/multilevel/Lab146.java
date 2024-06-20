@@ -6,6 +6,7 @@ public class Lab146 {
 //        GrandFather g = new GrandFather();
 //        g.bhk3();
 //        Father f = new Father();
+
 //        Son s = new Son();
 
 //        GrandFather g = new Son();
@@ -15,6 +16,7 @@ public class Lab146 {
 
         GrandFather g = new Son();
         g.bhk3();
+
 
         Son s = new Son();   //Son s can access all the object Father & GrandFather
         s.bhk1();

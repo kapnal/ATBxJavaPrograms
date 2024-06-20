@@ -17,6 +17,7 @@ public class Lab195 {
         pq1.offer(10);
         pq1.offer(30);
         pq1.offer(40);
+
        // pq1.offer(null);  It will throw NullPointerException
 
         pq1.add(90);

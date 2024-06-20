@@ -19,9 +19,9 @@ public class BankAccount {
     }
 
     void printDetails(){
-        System.out.println("Bank Name "+ bankName);
-        System.out.println("Bank Code " +bankCode);
-        System.out.println("Bal "+ balance);
+        System.out.println("Bank Name "+ this.bankName);
+        System.out.println("Bank Code " +this.bankCode);
+        System.out.println("Bal "+ this.balance);
     }
 
 }

@@ -19,6 +19,7 @@ public class Lab183 {
         numList.add(100);
         numList.add(399);
 
+
         courseList.addAll(numList);
         System.out.println(courseList);
 

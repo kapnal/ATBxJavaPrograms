@@ -5,6 +5,7 @@ public class Lab120 {
       int b = 10;
 
         System.out.println(--b + b++ + b--);
+        System.out.println(b);
         // 9 + 9 + 10
 
     }

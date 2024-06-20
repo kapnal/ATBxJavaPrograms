@@ -9,7 +9,7 @@ public class Lab180 {
 
         //List mylist = new List();
 
-        List<String> mylist = new ArrayList<>();   //We declared String int not allowed
+        List<String> mylist = new ArrayList();   //We declared String int not allowed
         mylist.add("Pramod");
         mylist.add("Amit");
         mylist.add("Kapil");
@@ -23,6 +23,7 @@ public class Lab180 {
         System.out.println(mylist);
         mylist.remove("Yak");
         System.out.println(mylist);
+        System.out.println(mylist.get(2));
 
         System.out.println(" --- ");
 

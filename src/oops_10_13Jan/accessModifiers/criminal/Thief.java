@@ -7,6 +7,6 @@ public class Thief {
 
         Cop cop = new Cop(10);
         System.out.println(cop.gun);
-        //cop.canIShoot();  this not allowed as it is protected and we are accessing the outside the police folder
+        //cop.canIShoot();  //this not allowed as it is protected and we are accessing the outside the police folder
     }
 }

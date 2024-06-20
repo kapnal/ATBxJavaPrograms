@@ -9,7 +9,7 @@ public class Lab001 {
 
         String str1 ="Hello";
         String str2 = str1.concat(" world");
-        str1 = str1.concat(" world");
+        //str1 = str1.concat(" world");
         System.out.println(str1);
         System.out.println(str2);
 

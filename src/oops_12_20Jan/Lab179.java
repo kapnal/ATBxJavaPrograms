@@ -15,8 +15,8 @@ public class Lab179 {
         mylist.add(true);
 
         System.out.println(mylist);
-        mylist.set(1,"Yak");
-        System.out.println(mylist);
+       mylist.set(1,"Yak");
+       // System.out.println(mylist);
         mylist.remove("Yak");
         System.out.println(mylist);
 
