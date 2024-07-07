@@ -8,7 +8,7 @@ public class Lab002 {
         String name1 ="kapil";
         System.out.println(name.equalsIgnoreCase(name1));
         System.out.println(name.equals(name1));
-        System.out.println(name.contains("p"));
+        System.out.println(name.contains("l"));
         System.out.println(name.concat(" Nalwar"));
         System.out.println(name);
 
