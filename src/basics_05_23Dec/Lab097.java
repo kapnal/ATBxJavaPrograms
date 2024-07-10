@@ -6,7 +6,7 @@ public class Lab097 {
         do {
             System.out.println(i);
             i++;    // Increment
-        } while(i <= 10);   // Condition
+        } while(i < 10);   // Condition
 
     }
 }
