@@ -51,13 +51,13 @@ public class ListDemo {
 //        System.out.println(mylist);
 
 
-//        for(int i = 0; i < mylist.size(); i++){
-//            System.out.println(mylist.get(i));
-//        }
-
-        for (Object o : mylist){
-            System.out.println(o);
+        for(int i = 0; i < mylist.size(); i++){
+            System.out.println(mylist.get(i));
         }
+
+//        for (Object o : mylist){
+//            System.out.println(o);
+//        }
 
 //        Iterator iterator = mylist.iterator();
 //        while (iterator.hasNext()){

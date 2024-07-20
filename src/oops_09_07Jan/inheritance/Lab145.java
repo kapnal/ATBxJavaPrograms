@@ -10,11 +10,11 @@ public class Lab145 {
 //       Programming p2 = new Java();
 //        // Java j2 = new Programming();  //This is invalid -Child Reference can not have parent object
 
-//        Java j = new Java();
-//         j.car();
-//         j.bhk3();
+//        Java j1 = new Java();
+//         j1.car();
+//         j1.bhk3();
 
-//         Python p = new Python();
+//         Python p1 = new Python();
 //         p.bhk3();
 
 

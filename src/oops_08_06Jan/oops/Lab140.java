@@ -17,6 +17,8 @@ public class Lab140 {
         System.out.println(p2.name);
 
 
+
+
         new Person(); // object -> new Object empty
         // Person(); -> Method or Function
         Person p3 = null;

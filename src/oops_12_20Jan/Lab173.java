@@ -1,7 +1,7 @@
 package src.oops_12_20Jan;
 
 public class Lab173 {
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         readFile("C://pramod.txt");
         // prone to error
 

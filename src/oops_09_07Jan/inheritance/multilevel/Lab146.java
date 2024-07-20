@@ -14,8 +14,8 @@ public class Lab146 {
 //       // Son s = new GrandFather(); //Not possible
 //        // Son s = new Father(); //Not possible
 
-        GrandFather g = new Son();
-        g.bhk3();
+//        GrandFather g = new Son();
+//        g.bhk3();
 
 
         Son s = new Son();   //Son s can access all the object Father & GrandFather

@@ -9,7 +9,7 @@ public class Lab174 {
         main("Pramod");
     }
 
-    static void main(String a) throws Exception{
+    static void main(String a) throws Exception {
 
         // Code 100
 

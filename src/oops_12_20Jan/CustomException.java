@@ -1,6 +1,6 @@
 package src.oops_12_20Jan;
 
-public class CustomException extends  Exception {
+public class CustomException extends Exception {
 
     public CustomException(String msg) {
         super(msg);

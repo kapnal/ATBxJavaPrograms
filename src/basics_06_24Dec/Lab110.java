@@ -27,7 +27,7 @@ public class Lab110 {
         arr[2][2] = 45;
 
 
-        for (int i = 0; i < a.length; i++) {
+        for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length ; j++) {
                 System.out.print(arr[i][j]+"\t");
             }

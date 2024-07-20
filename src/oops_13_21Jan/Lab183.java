@@ -7,7 +7,7 @@ import java.util.List;
 public class Lab183 {
     public static void main(String[] args) {
 
-        List<String> courseList = new ArrayList<>();
+        List<String> courseList = new ArrayList();
         courseList.add("ATB");
         courseList.add("MTB");
         courseList.add("PyATB");

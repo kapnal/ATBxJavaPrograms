@@ -15,6 +15,7 @@ public class Lab196 {
         map.put("id3",9);
         map.put("id2",7);
 
+
         System.out.println(map);
         System.out.println(map.isEmpty());
         System.out.println(map.size());
