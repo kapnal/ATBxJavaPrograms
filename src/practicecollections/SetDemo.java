@@ -30,6 +30,7 @@ public class SetDemo {
         mylist.add("Ruby");
         mylist.add("Robotic");
         mylist.add("Java");
+       // mylist.add(null);  //TreeSet null not allowed
 
         System.out.println(mylist);
 //        System.out.println(mylist.size());

@@ -32,6 +32,7 @@ public class ListDemo {
         mylist.add("Robotic");
         mylist.add(null);
         mylist.add(123);
+        mylist.add(null);
 
         System.out.println(mylist);
 //        System.out.println(mylist.size());

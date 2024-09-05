@@ -9,9 +9,9 @@ public class MapDemo {
 
     public static void main(String[] args) {
 
-//        Map<String ,Object>  map = new HashMap<>();
+        Map<String ,Object>  map = new HashMap<>();
 //        Map<String ,Object>  map = new LinkedHashMap<>();
-        Map<String ,Object>  map = new TreeMap<>();
+  //      Map<String ,Object>  map = new TreeMap<>();
 
         map.put("FirstName", "Kapil");
         map.put("LastName", "Nalwar");
@@ -19,6 +19,7 @@ public class MapDemo {
         map.put("City", "Pune");
         map.put("Age", 32);
         map.put("Country", "India");
+
 
 
         System.out.println(map);

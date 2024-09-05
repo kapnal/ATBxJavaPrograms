@@ -2,6 +2,7 @@ package src.oops_13_21Jan;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Lab183 {
@@ -13,7 +14,7 @@ public class Lab183 {
         courseList.add("PyATB");
         courseList.add("LAPIB");
 
-        List numList = new ArrayList();
+        List numList = new LinkedList();
         numList.add(150);
         numList.add(100);
         numList.add(100);

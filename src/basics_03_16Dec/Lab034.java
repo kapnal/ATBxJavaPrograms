@@ -6,5 +6,7 @@ public class Lab034 {
         String str2 = "Guys";  //SCP
         String str3 = "Hello Guys"; //SCP
         String str4 = str1.concat(str2); //str3 and str4 are grayed out because we have not used
+
+        System.out.println(str4);
     }
 }
