@@ -12,5 +12,6 @@ public class Lab020 {
         int b=10;
         boolean c= (a!=b);  //Reference
         System.out.println(c);
+        System.out.println(a > b);
     }
 }

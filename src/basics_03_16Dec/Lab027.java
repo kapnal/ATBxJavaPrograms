@@ -12,5 +12,12 @@ public class Lab027 {
         //byte b1 = a1; //Invalid - Implicit Casting
         byte b1 = (byte) a1;  // Explicit casting
         System.out.println(b1);
+
+        byte c = 5;
+        int d = c;
+        int d1 = 129;
+        //byte c1 = d1;
+        byte c1 = (byte) d1;
+        System.out.println(c1);
     }
 }

@@ -15,5 +15,7 @@ public class Lab047 {
         else{
             System.out.println("Even number");
         }
+
+        sc.close();
     }
 }
