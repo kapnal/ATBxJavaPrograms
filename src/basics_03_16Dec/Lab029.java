@@ -11,7 +11,7 @@ public class Lab029 {
         String s2 = new String("Kapil");
 
         //new operator is used to create the new object for class
-        // It returns of the address of the newly created object
+        // It returns address of the newly created object
         System.out.println(s2);
         System.out.println(new String("Kapil"));
         System.out.println(s1 == s2);    //Referecnes checks and are not equal

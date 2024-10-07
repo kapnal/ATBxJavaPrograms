@@ -13,6 +13,7 @@ public class Lab013 {
         System.out.println(r);
         //num%2=0  Even
         //num%2=1  Odd
+        System.out.println("Kapil\"Nalwar");
 
 
 

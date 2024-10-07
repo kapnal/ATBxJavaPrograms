@@ -26,6 +26,9 @@ public class Lab082 {
             if (!(i%2 ==1)) {
                 System.out.println(i + " is even");
             }
+            else {
+                System.out.println(i + " is odd");
+            }
         }
 
         System.out.println("End of program");

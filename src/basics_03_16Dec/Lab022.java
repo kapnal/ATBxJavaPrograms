@@ -10,6 +10,7 @@ public class Lab022 {
         System.out.println(a);
         System.out.println(!a);
        // System.out.println(!10);
+       // System.out.println(!10);
         System.out.println (!(10>20));
         System.out.println (10>20);
 
