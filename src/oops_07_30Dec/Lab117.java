@@ -1,7 +1,7 @@
 package src.oops_07_30Dec;
 
 public class Lab117 {
-    public static void main(String[] Kapil) {
+    public static void main(String[] kapil10) {
 
         System.out.println("Run fine !!");
         int c = main(10);

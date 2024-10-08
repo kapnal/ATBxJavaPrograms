@@ -4,13 +4,6 @@ public class function {
 
     public static void main(String[] args) {
 
-        int b =10;
-
-        System.out.println(--b + b++ + b--);
-        System.out.println(b);
-        //9 + 9+10
-        //9 10 9
-
       int z = sum(3,4);
       int z1 = sum(5);
       int z2 = sum();
