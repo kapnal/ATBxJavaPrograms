@@ -5,6 +5,8 @@ public class Dog {
     // Constructor
     Dog(){
 
+        System.out.println("Default Construcor");
+
     }
 
     // Attribute / Data member / varaible
