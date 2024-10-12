@@ -14,8 +14,8 @@ public class ATBPerson {
         System.out.println("I am Default");
     }
     // Param Constructor
-    ATBPerson(String valuefromObjectRef){
-        this.name = valuefromObjectRef;
+    ATBPerson(String Name){
+        this.name = Name;
     }
 
     void talk (){
@@ -24,6 +24,9 @@ public class ATBPerson {
     void printDetails(){
         System.out.println(this.name);
         System.out.println(courseName);
+        System.out.println(this.phone);
+        System.out.println(this.email);
+        System.out.println(this.isMarried);
     }
 
 
