@@ -13,7 +13,7 @@ public class Lab166 {
         try {
             FileInputStream f = new FileInputStream("dasda.txt");
         }catch (Exception e){
-            System.out.println();
+            System.out.println("File can not be found");
         }
 
 
