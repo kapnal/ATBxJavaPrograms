@@ -1,6 +1,7 @@
 package src.oops_12_20Jan;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 public class Lab179 {
@@ -26,6 +27,11 @@ public class Lab179 {
 
         for(Object o :mylist){
             System.out.println(o);
+        }
+
+        Iterator it = mylist.iterator();
+        while(it.hasNext()){
+            System.out.println(it.next());
         }
     }
 }

@@ -12,6 +12,7 @@ public class Lab192 {
         courseSets.add("API");
         courseSets.add("Selenium");
         courseSets.add("TOSCA");
+        //courseSets.add(null);      NullPointerException
 
         System.out.println(courseSets);
 

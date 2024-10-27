@@ -25,9 +25,9 @@ public class Lab195 {
 
 
         System.out.println(pq1);
-//        System.out.println(pq1.poll());
-//        System.out.println(pq1);
-//        System.out.println(pq1.peek());
+        System.out.println(pq1.poll());
+        System.out.println(pq1);
+        System.out.println(pq1.peek());
 
 
 

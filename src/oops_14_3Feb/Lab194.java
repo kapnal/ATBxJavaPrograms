@@ -6,7 +6,7 @@ import java.util.TreeSet;
 public class Lab194 {
     public static void main(String[] args) {
 
-        TreeSet numSet = new TreeSet();
+        Set numSet = new TreeSet();
         numSet.add(40);
         numSet.add(70);
         numSet.add(20);

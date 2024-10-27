@@ -21,15 +21,15 @@ public class Lab184 {
             System.out.println(lt.next());
         }
 
-        System.out.println(" --- ");
-
-       ListIterator lt2 = ttacourseList.listIterator(ttacourseList.size());
-        while (lt2.hasPrevious()){
+//        System.out.println(" --- ");
+//
+//       ListIterator lt2 = ttacourseList.listIterator(ttacourseList.size());
+//        while (lt2.hasPrevious()){
 //
 //           // ttacourseList.add("Gen AI");  //ConcurrentModificationException
 //           // lt2.add("Gen AI");  //this is allowed
-            System.out.println(lt2.previous());
-        }
+//            System.out.println(lt2.previous());
+//        }
 
     }
 }

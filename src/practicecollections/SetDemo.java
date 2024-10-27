@@ -54,7 +54,7 @@ public class SetDemo {
 //            System.out.println(mylist.get(i));
 //        }
 
-        for (Object o : mylist){
+        for (Object o : mylist) {
             System.out.println(o);
         }
 
