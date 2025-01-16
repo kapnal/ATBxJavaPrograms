@@ -13,7 +13,11 @@ public class Lab007 {
         //%d is any integer -byte ,short, int, long
         //%s is string
         //%c char
+        String str = "Kapil";
+        char cr = 'K';
         System.out.printf("Your age is %d",age);
+        System.out.printf("Your age is %s",str);
+        System.out.printf("Your age is %c",cr);
 
     }
 }
