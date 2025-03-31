@@ -20,7 +20,7 @@ public class Lab108 {
 //        Ex.2024 - Leap year
 //        2024/4=506 leap year
 
-        int year = 1800;
+        int year = 2000;
         // (year%4 ==0)
         if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
             System.out.println("Leap Year");

@@ -11,6 +11,8 @@ public class EvenOdd1 {
         System.out.println("Enter the Number");
         int num = sc.nextInt();
 
+        //int num = 29;
+
         if (num % 2 ==0){
 
             System.out.println(num + " is a Even Number");

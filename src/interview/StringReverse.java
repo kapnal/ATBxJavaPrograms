@@ -13,5 +13,11 @@ public class StringReverse {
         }
 
         System.out.println(reverse);
+
+        StringBuilder sb = new StringBuilder(original);
+        sb.reverse();
+        System.out.println(sb);
+
+
     }
 }
